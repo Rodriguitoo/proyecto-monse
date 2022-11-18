@@ -9,7 +9,7 @@ namespace ejemplo
             Baules b = new Baules();
             Persona persona = new Persona();
             persona.rut = "1-1";
-            persona.nombre = "Juan";
+            persona.nombre = "Alberto";
             persona.fono = "965584";
             Console.WriteLine(" Cree una persona y la guardé en el baúl");
             Persona persona2 = new Persona();
